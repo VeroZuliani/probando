@@ -1,8 +1,19 @@
-# React + Vite
+<div align="center">
+  <h1><a href="" target="_blank">Vero</a></h1>
+  My personal portfolio
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Built with
+- **Framework**: [React](https://es.react.dev/)
+- **Styling**: [Chakra UI](https://chakra-ui.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Deployment**: [Vercel](https://vercel.com)
 
-Currently, two official plugins are available:
+## Running Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```sh
+git clone 
+cd portfolio && yarn install
+yarn dev
+```
+
